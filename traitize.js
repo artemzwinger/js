@@ -1,4 +1,5 @@
 (function ($) {
+    var Core = {};
     Core.traitize = function ()
     {
         var args = [].slice.call(arguments),
